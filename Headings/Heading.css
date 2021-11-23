@@ -1,0 +1,9 @@
+.output {
+    margin-right: 100px;
+}
+
+.heading-code {
+    background-color: lightslategray;
+    padding: 10px;
+    overflow: scroll;
+}
