@@ -1,0 +1,28 @@
+a:link {
+    color: #f0e130;
+}
+
+a:visited {
+    color: rgb(175, 164, 7);
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: yellow;
+}
+
+* {
+    background-color: lightgoldenrodyellow;
+}
+
+.diffrent-page-links {
+    text-align: center;
+    margin-top: 75px;
+}
+
+.Extra-text {
+    text-align: center;
+}
