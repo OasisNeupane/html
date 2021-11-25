@@ -1,21 +1,21 @@
 a:link {
-    color: #f0e130;
+    color: #EEE2Dc;
 }
 
 a:visited {
-    color: rgb(175, 164, 7);
+    color: #AC3B61;
 }
 
 a:hover {
-    color: black;
+    color: #BAB2B5;
 }
 
 a:active {
-    color: yellow;
+    color: #123c69;
 }
 
 * {
-    background-color: lightgoldenrodyellow;
+    background-color: #EDC7B7;
 }
 
 .diffrent-page-links {
